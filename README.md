@@ -33,3 +33,5 @@ __WITHOUT_MULTI_PLUGINCODE__.wxapkg
 第九步：先关掉羊了个羊，再重新打开。开始游戏，点右下角的（洗牌道具），看完广告，道具直接无限！
 
 ![图片](https://user-images.githubusercontent.com/49282008/190842909-66197b52-e8bb-4bd8-8d2a-f56b17bede5c.png)
+
+***注：电脑版的wxapkg是经过加密的，想要解密和解包看源代码需要自行操作，解密工具看我的另一个仓库：https://github.com/Carinx/pc_wxapkg_decrypt***
